@@ -11,10 +11,11 @@ table{
    
 }
 table, th, td{
-  border: 2px red;
-  color: inherit;
+  border: 2px solid red;
+  color: grey;
   font-size: medium;
-  width: 175px;
+  border-radius: 4px;
+  width: 200px;
   height:75px;
   
 }
