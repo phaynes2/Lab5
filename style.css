@@ -4,13 +4,16 @@ table, th, td{
   background : 2d1060;
   color: grey;
   font-size: medium;
+  width: 200px;
+  height:90px;
   
 }
 td{
-  
+  color: grey;
+  text-align: center;
   
 }
 body {
-  background: grey;
+  background-color: grey;
   
 }
