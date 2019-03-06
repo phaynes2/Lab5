@@ -12,7 +12,7 @@ table{
 }
 table, th, td{
   border: 2px red;
-  color: light grey;
+  color: inherit;
   font-size: medium;
   width: 175px;
   height:75px;
