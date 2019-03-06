@@ -1,3 +1,8 @@
+body {
+  background-color: 9400D3;
+  background-size: cover;
+  text-align: center;
+}
 table{
    background-color: navy;
    margin-left: auto;
@@ -12,12 +17,8 @@ table, th, td{
   height:90px;
   
 }
-td{
-  color: red;
+th,td{
+  padding: 5px;
   text-align: center;
   
-}
-body {
-  background-color: grey;
-   text-align: center;
 }
