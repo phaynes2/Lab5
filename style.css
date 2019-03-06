@@ -1,6 +1,6 @@
 body {
   background: #1d104c;
-    background-image: url(https://www.wired.com/story/space-photos-of-the-week-hubble-photos/");
+  background-image: url("/media/space.jpg");
   background-size: cover;
   text-align: center;
   color: #E0B0FF;
@@ -24,4 +24,12 @@ th, td{
   text-align: center; 
   font-family: inherit;
 
+}
+img{
+  width:40%;
+  height:30%;
+}
+img{
+  width:30%;
+  height:30%;
 }
