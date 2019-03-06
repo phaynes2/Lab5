@@ -1,8 +1,16 @@
-body {
-  background-color: grey;
+
+table, th, td{
+  border : 2px red;
+  background : 2d1060;
+  color: grey;
+  font-size: medium;
   
 }
-table{
-  background-color: 2d1060;
+td{
+  
+  
+}
+body {
+  background: grey;
   
 }
